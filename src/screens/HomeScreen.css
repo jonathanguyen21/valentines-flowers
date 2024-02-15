@@ -73,8 +73,7 @@
   margin-top: 2rem;
 }
 
-.decline-button:hover,
-.decline-button:focus {
+.decline-button:hover {
   background-color: #3a0404;
 }
 

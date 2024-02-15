@@ -1,0 +1,91 @@
+#root {
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  background-color: #dc362d;
+}
+
+.header {
+  font-size: 5rem;
+  color: #fff;
+}
+
+.accept-button {
+  background-color: #ea4c89;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 3rem 8rem 4rem 8rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 5rem;
+}
+
+.accept-button:hover,
+.accept-button:focus {
+  background-color: #6d1032;
+}
+
+.decline-button {
+  background-color: #ff0000;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 3rem 8rem 4rem 8rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 2rem;
+}
+
+.bubu {
+  border-radius: 5px;
+  border: #f17edb solid 10px;
+}
+
+.dudu {
+  border-radius: 5px;
+  border: #f17edb solid 10px;
+  height: 30%;
+  width: 50%;
+}
+
+.test {
+  color: red;
+  font-size: 2rem;
+}

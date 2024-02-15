@@ -73,6 +73,11 @@
   margin-top: 2rem;
 }
 
+.decline-button:hover,
+.decline-button:focus {
+  background-color: #3a0404;
+}
+
 .bubu {
   border-radius: 5px;
   border: #f17edb solid 10px;

@@ -5,12 +5,12 @@ import Flower from "../components/Flower.jsx";
 export default function AcceptScreen() {
   return (
     <>
-      <div className="container">
-        <span className="text">Happy Valentines Baby!!!!</span>
-        <span className="text">
-          I hope you had a great day and here are some flowers!
-        </span>
-      </div>
+      <span className="text">
+        Happy Valentines Baby!!!!
+        <p style={{ color: "#ff0000" }}>I LOVE YOU</p>
+        <p>I hope you had a great day and here are some flowers for YOU!</p>
+      </span>
+      <span className="text2"></span>
       <Flower />
     </>
   );
